@@ -1,0 +1,17 @@
+body
+{
+    background-image: url("Backgroundimage.jpg");
+    background-size:cover ;
+    background-position: center;  
+}
+
+h3
+{
+    font-size: 25px;
+    color:darksalmon;
+}
+
+canvas
+{
+    border: 5px solid black;
+}
